@@ -5,6 +5,9 @@ Ultra fast docker-based WordPress Bedrock instance with nginx, php-fpm, mariadb 
 # Usage
 
 `git clone git@github.com:dawidurbanski/fast-docker-bedrock.git site`
+
 `cd site`
+
 `composer create-project roots/bedrock`
+
 `docker-compose up -d`
